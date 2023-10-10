@@ -1,4 +1,4 @@
-# BDLabs
+# DBLabs
 Филипеня Александра, гр. 153503. Предметная область - Афиша.
 ![](https://github.com/SashaFfF/BDLabs/blob/main/db.jpg)
 ## Описание сущностей
